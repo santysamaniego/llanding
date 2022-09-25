@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#container_navbar{
+    width: 70vw;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+#principal{
+    height: 100vh;
+    width: 100%;
+}
+
+/*Header*/
+
+/*Section*/
+
+section{
+    height: 100vh;
+    width: 100%;
+    background: rgb(127, 118, 118);
+}
+
+article{
+    height: 100vh;
+    width: 70vw;
+    margin: auto;
+}
+
+#carrousel_celulares{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 25px;
+    padding: 50px;
+}
+
+#carrousel_celulares:hover{
+    background: rgb(115, 219, 109);
+    transition:0.5s;
+}
+
+#carrousel_parlantes{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 25px;
+    padding: 50px;
+}
+
+#carrousel_parlantes:hover{
+    background: rgb(115, 219, 109);
+    transition:0.5s;
+}
